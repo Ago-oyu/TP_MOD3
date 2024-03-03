@@ -1,0 +1,10 @@
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\bin\Debug\tpmod3_1302220101.exe.config
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\bin\Debug\tpmod3_1302220101.exe
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\bin\Debug\tpmod3_1302220101.pdb
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.csproj.AssemblyReference.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.Form1.resources
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.Properties.Resources.resources
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.csproj.GenerateResource.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.csproj.CoreCompileInputs.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.exe
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 3\tpmod3_1302220101\tpmod3_1302220101\obj\Debug\tpmod3_1302220101.pdb
